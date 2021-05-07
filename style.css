@@ -66,11 +66,13 @@ p{
 .container .card p{
     padding: 0 20px;
     margin-bottom: 30px;
+    color: hsla(0, 0%, 100%, 0.6);
 }
 
 .container .card ul li{
     margin-bottom: 20px;   
-    text-transform: uppercase; 
+    text-transform: uppercase;
+    color: hsla(0, 0%, 100%, 0.6);
 }
 
 .container .card ul li span{
@@ -78,6 +80,7 @@ p{
     text-transform: lowercase;
     font-weight: 700;
     font-family: "Lexend Deca", sans-serif;
+    color: var(--white);
 }
 
 .attribution {
